@@ -91,12 +91,41 @@ This repository documents my structured learning and hands-on practice of TypeSc
 - Classes help structure logic in large applications.
 - Always validate external or unknown data before using it.
 
+
+
+
+### 🚀 Day 4 – Advanced Type Patterns
+📚 Topics Covered
+
+Advanced Generics
+
+Mapped Types
+
+keyof & Indexed Access Types
+
+Async patterns in TypeScript
+
+Real-world API validation patterns
+
+💡 Key Learnings
+
+Advanced generics improve scalability and reusability in large applications.
+
+Mapped types allow transforming and reshaping existing types efficiently.
+
+keyof and indexed access types help build dynamic yet type-safe utilities.
+
+Properly typed async functions increase reliability and maintainability.
+
+Validating API responses ensures safer production-level applications.
+
 ---
 
 ## 📂 Practice Files
 - `day1-practice.ts`
 - `day2-practice.ts`
 - `day3-practice.ts`
+- 'day4-practice.ts'
 
 ---
 
@@ -109,11 +138,4 @@ This repository documents my structured learning and hands-on practice of TypeSc
 ✔ Building scalable and maintainable TypeScript code  
 
 ---
-
-## 📌 Upcoming (Day 4 & Day 5)
-
-- Advanced Generics  
-- Mapped Types  
-- `keyof` & Indexed Access Types  
-- Async patterns in TypeScript  
-- Real-world API validation patterns  
+  
